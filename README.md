@@ -21,8 +21,8 @@ SQLite database
 Installation
 To run this website on your local machine, you need to have Python and Django installed. Follow these steps to get started:
 
-Clone this repository: git clone https://github.com/timmie-tech/myblog.git
-Navigate to the project directory: cd myblog
+Clone this repository: git clone https://github.com/timmi-tech/Timmie-Blog.git
+Navigate to the project directory: cd Timmie-blog
 Install the required packages: pip install -r requirements.txt
 Run the server: python manage.py runserver
 Open your browser and go to http://localhost:8000
