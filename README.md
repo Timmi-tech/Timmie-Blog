@@ -1,0 +1,2 @@
+# Timmie Blog
+ TimmieBlog is a simple and elegant blog website built with HTML, CSS, Bootstrap, Python, and Django. The website is designed to provide a platform for bloggers to share their ideas and opinions on various topics.  Features User authentication and authorization Post creation, editing, and deletion Commenting system Search functionality Responsive design using Bootstrap Custom error pages Technologies used HTML CSS Bootstrap Python Django SQLite database
